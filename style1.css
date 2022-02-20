@@ -1,0 +1,198 @@
+    #header {
+        background-image: url('./equipments/showroom.jpg');
+        background-size: cover;
+    }
+    
+    #logoblock {
+        height: 180px;
+    }
+    
+    #logoname {
+        color: yellow;
+        font-family: algerian;
+    }
+    
+    #icon {
+        float: left;
+    }
+    
+    #topicon {
+        margin-top: 2px;
+    }
+    
+    #call {
+        float: inline-end;
+    }
+    
+    #body1 {
+        height: 600px;
+    }
+    
+    .first {
+        background-color: black;
+        width: 400px;
+        height: 400px;
+        position: absolute;
+    }
+    
+    .second {
+        background: yellow;
+        top: 175px;
+        left: 325px;
+        z-index: +1;
+        position: absolute;
+        width: 550px;
+        height: 250px;
+        border: black 2px solid;
+    }
+    
+    .third {
+        background-color: black;
+        position: absolute;
+        top: 300px;
+        left: 800px;
+        width: 540px;
+        height: 300px;
+    }
+    
+    #containers {
+        position: absolute;
+    }
+    
+    .contact {
+        width: 300px;
+        height: 300px;
+        margin-left: 60px;
+        margin-bottom: 100px;
+        margin-top: 10px;
+        background-color: yellow;
+    }
+    
+    #taxi {
+        width: 300px;
+        height: 300px;
+        border: yellow 1px solid;
+    }
+    
+    h4 {
+        text-align: center;
+        color: yellow;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        text-align: left;
+    }
+    
+    #one {
+        width: 400;
+        height: 60px;
+        margin-top: 5px;
+        margin-bottom: 15px;
+    }
+    
+    .sidepic {
+        width: 100px;
+        height: 65px;
+        margin-left: 10px;
+        margin-top: 10px;
+    }
+    
+    #sidecontent {
+        margin-top: 10px;
+        width: 420px;
+    }
+    
+    #details {
+        width: 540px;
+        height: 300px;
+        border: 2px black solid;
+    }
+    
+    #aboutus {
+        width: 270;
+        background-color: yellow;
+    }
+    
+    .aboutusimg {
+        width: 270px;
+        height: 300px;
+    }
+    
+    .aboutustopbar {
+        margin-left: 100px;
+        margin-top: 75px;
+    }
+    
+    #fourth {
+        width: 230px;
+        height: 160px;
+        position: fixed;
+        top: 10px;
+        left: 1000px;
+    }
+    
+    .bottomcontainer {
+        object-fit: contain;
+        width: 220px;
+        height: 120px;
+    }
+    
+    .besthireimg {
+        width: 200px;
+    }
+    
+    #besthireimgccc {
+        width: 200px;
+        height: 200px;
+    }
+    
+    .d-block {
+        width: 1366px;
+        height: 700px;
+        object-fit: fill;
+    }
+    
+    .formfill {
+        background-color: whitesmoke;
+        border: 0%;
+        height: 60px;
+        width: 100%;
+    }
+    
+    label {
+        text-align: center;
+    }
+    
+    #Message {
+        width: 100%;
+        height: 150px;
+        background-color: whitesmoke;
+    }
+    
+    #lastpageicons {
+        color: white;
+    }
+    
+    #conatct {
+        text-align: left;
+    }
+    
+    #lastpagea {
+        color: yellow;
+        padding-right: 10px;
+    }
+    
+    .formfill:hover {
+        background-color: thistle;
+    }
+    
+    .cartype:hover {
+        color: blueviolet;
+    }
+    
+    #messagebox:hover {
+        background-color: black;
+        color: yellow;
+    }
+    
+    #submit:hover {
+        background-color: orange;
+    }
